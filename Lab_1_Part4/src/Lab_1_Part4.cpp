@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Lab_1_Part4.cpp
-// Author      : 
+// Author      :
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
@@ -95,6 +95,7 @@ while (1)
 cout << "Enter the DNA string: \n";
 cin >> str1;
 function1(str1);
+cout >> "hello";
 }
 
 }
